@@ -1,5 +1,10 @@
 # Hi there, and welcome on my Evogym Landing Page!
 
+![ss_1](![image](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/750bdd57-4fb8-44c1-8a8b-38c376f8637b)
+)
+![ss_2](![image](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/8c273aa8-580a-4df4-ae7d-2adabfaca781)
+)
+
 ## 💻Live💻
 
 [Evogym Landing Page](https://master--prismatic-cascaron-ee8e69.netlify.app)
