@@ -1,9 +1,8 @@
 # Hi there, and welcome on my Evogym Landing Page!
 
-![ss_1](![image](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/750bdd57-4fb8-44c1-8a8b-38c376f8637b)
-)
-![ss_2](![image](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/8c273aa8-580a-4df4-ae7d-2adabfaca781)
-)
+![ss1](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/e268efbe-140c-4343-9400-06e336b243f7)
+![ss2](https://github.com/Halabarda32/Fitness-Landing-Page/assets/51050405/2bec4e22-7bb9-440f-a779-b02195d0d63b)
+
 
 ## 💻Live💻
 
